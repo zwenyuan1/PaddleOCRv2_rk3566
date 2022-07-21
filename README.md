@@ -21,3 +21,4 @@ adb shell
 cd /data/rknn_ocr_demo_Linux
 ./rknn_ocr_demo ./model/test_imgs/turn
 ```
+### My CSDN about this: [rk3566部署paddleocrv2踩坑记录](https://blog.csdn.net/Emery_learning/article/details/125739825)
